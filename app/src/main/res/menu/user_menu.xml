@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/user_call"
+            android:title="@string/call"
+            android:icon="@drawable/img_call"
+            />
+        <item
+            android:id="@+id/user_sms"
+            android:title="@string/sms"
+            android:icon="@drawable/img_sms"
+            />
+        <item
+            android:id="@+id/user_setting"
+            android:title="@string/setting"
+            android:icon="@drawable/img_setting"
+            />
+    </group>
+</menu>

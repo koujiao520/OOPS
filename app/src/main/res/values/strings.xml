@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OOPS</string>
+    <string name="login_login">登录</string>
+    <string name="login_text">验证后进入应用</string>
+    <string name="call">呼叫</string>
+    <string name="sms">短信</string>
+    <string name="setting">设置</string>
+</resources>

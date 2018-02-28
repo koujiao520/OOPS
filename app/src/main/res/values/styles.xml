@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#666666</item>//toolbar颜色
+        <item name="colorPrimaryDark">#555555</item>//系统通知栏
+        <item name="colorAccent">#FF8C00</item>//控件选中颜色
+        //还有 textColorPrimary 字体颜色 windowsBackground 窗体内容颜色 navigationBarColor 虚拟按键条颜色
+    </style>
+
+</resources>
